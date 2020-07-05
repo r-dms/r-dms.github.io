@@ -21,9 +21,7 @@
 title: Roberto D. Machorro Swain
 email: diego@machorro.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi there! I'm an undergraduate RA studying Chemical Engineering at the
-  Florida State University in Tallahassee, Fl. I am hobbyist developer taking
-  on one passion project at a time, here to make something meaningful.
+  Make something meaningful.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cptnb_
