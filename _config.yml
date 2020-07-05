@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cptnb_
-# linkedin_url: r-dms
+linkedin_username: r-dms
 github_username: r-dms
 instagram_username: roberto.dms
 
@@ -37,8 +37,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - gravel.markdown
   - about.markdown
-  - testpage.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
