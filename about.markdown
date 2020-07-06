@@ -2,12 +2,13 @@
 layout: page
 title: "About"
 permalink: /about/
+
+# ![Hello! This is me :)](/assets/profile.png)
+# ^ Need to resize image
 ---
 
 Hi there! I'm an undergraduate RA (Resident Assistant) studying Chemical Engineering at Florida State University in Tallahassee, Fl. I am a hobbyist developer taking on one passion project at a time, and I'm here to make
 something meaningful.
-
-![Hello! This is me :)](/assets/profile.png)
 
 This is my current active project, [Gravel](https://r-dms.github.io/gravel).
 
