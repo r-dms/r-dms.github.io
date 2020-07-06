@@ -24,10 +24,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Make something meaningful.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: cptnb_
 linkedin_username: r-dms
 github_username: r-dms
 instagram_username: roberto.dms
+twitter_username: cptnb_
 
 # Build settings
 theme: minima

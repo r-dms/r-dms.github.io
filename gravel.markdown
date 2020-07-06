@@ -23,3 +23,5 @@ Gravel Alpha 1.0 Screens (missing functions and features):
 - Grades Screen
 - Profile Screen
 {% endhighlight %}
+
+Interested in becoming a Beta Tester or subscribing to the Newsletter? Click [here](https://forms.gle/Nnh2Wu5xaVFbRxWH6) to apply!
