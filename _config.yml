@@ -38,6 +38,8 @@ header_pages:
   - gravel.markdown
   - about.markdown
 
+google_analytics: UA-172071240-1
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
