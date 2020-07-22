@@ -7,7 +7,7 @@ permalink: /about/
 # ^ Need to resize image
 ---
 
-Hi there! I'm an undergraduate RA (Resident Assistant) studying Chemical Engineering at Florida State University in Tallahassee, Fl. I am a hobbyist developer taking on one passion project at a time, and I'm here to make
+Hi there! I'm an undergraduate RA (Resident Assistant) studying Chemical Engineering at Florida State University in Tallahassee, Fl. As of August 2020 I am interning as a Research Assistant at FSU as well. I am a hobbyist developer taking on one passion project at a time, and I'm here to make
 something meaningful.
 
 This is my current active project, [Gravel](https://r-dms.github.io/gravel).
