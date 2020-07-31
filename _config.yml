@@ -36,6 +36,7 @@ plugins:
 
 header_pages:
   - gravel.markdown
+  - archive.markdown
   - about.markdown
 
 google_analytics: UA-172071240-1
